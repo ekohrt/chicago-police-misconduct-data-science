@@ -1,5 +1,5 @@
-# chicago-police-misconduct-data-science
-Analyzing misconduct complaints filed by police officers, using data from the Chicago Police Department.
+# Analysing Internal Compaints in the Chicaco Police Departnemt
+We analyze misconduct complaints filed by police officers, using open-source data provided by the Invisible Institute.
 
 CPDP: https://cpdp.co/
 SQL Queries, Data visualization tools (Obervable, D3.js), Machine Learning (scikit-learn)
