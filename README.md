@@ -9,3 +9,6 @@ In the database, most records are for misconduct allegations filed by civilians 
 - Do internal complaints have a greater impact than civilian-filed complaints on individual officers? 
 - Are internal complaints on an officer predictive of future civilian complaints?
 
+Interactive visualization #1: https://observablehq.com/d/664d92cd192aa9f1
+Interactive visualization #2: https://observablehq.com/d/691e08eae899d1e5
+
