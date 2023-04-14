@@ -1,4 +1,4 @@
-# Analysing Internal Compaints in the Chicaco Police Departnemt
+# Analyzing Internal Compaints in the Chicaco Police Departnemt
 We analyze misconduct complaints filed by police officers, using open-source data provided by the Invisible Institute.
 
 CPDP: https://cpdp.co/
